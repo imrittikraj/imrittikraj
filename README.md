@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://app.daily.dev/rittikraj"><img src="https://api.daily.dev/devcards/v2/zrFnta2xKoyFmeEh0omM7.png?r=xm3&type=default" width="356" alt="Rittik Raj's Dev Card"/></a>
+<a href="https://app.daily.dev/rittikraj"><img align="left" src="https://api.daily.dev/devcards/v2/zrFnta2xKoyFmeEh0omM7.png?r=xm3&type=default&r=cv0" width="auto" alt="Rittik Raj's Dev Card" height="287px"/></a>
 <a href="https://spotify.oia.bio/imsonuksingh"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
 <div align="center">
   
