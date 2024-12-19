@@ -11,10 +11,9 @@
 
 • A passionate freelance software engineer from india<br>
 •‎ B.Tech 2026 grad in Computer Sc. & Engineering<br>
-•‎ Self-taught java,shell, HTML, Web development<br>
-•‎ ‎Build Android Apps primarily with Java<br>
-•‎ ‎I'm also a Modder,cracker<br>
-•‎ ‎Call Me Galaxy<br>
+•‎ Self-taught java, JavaScript, HTML, Web development<br>
+•‎ ‎Communication Skills <br>
+•‎ ‎Call Me Rittik Tabahi<br>
 
  my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
