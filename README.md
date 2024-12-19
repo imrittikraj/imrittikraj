@@ -26,7 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </div>
 <div align="center"><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+THE+OWNER+NAME+IS+SONU+K+SINGH;I+AM+FROM+INDIA+Bihar(Patna);B.tech+With+CSE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+THE+OWNER+NAME+IS+RITTIK+RAJ;I+AM+FROM+INDIA+Bihar(Aurangabad);B.tech+With+CSE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <p align="center"> <a href="https://archcraft.io"><img src="https://raw.githubusercontent.com/archcraft-os/.github/main/profile/assets/logo.gif" height="128" width="128" alt="Archcraft"></a>   
   
