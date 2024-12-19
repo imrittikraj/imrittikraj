@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://g.dev/sonukumarsingh"><img align="left" src="https://api.daily.dev/devcards/v2/HJKpkXLZjA1eqkONELxr3.png?type=default&r=cv0" width="auto" alt="Sonu Kumar Singh's Dev Card" height="287px"/></a>
+<a href="https://app.daily.dev/rittikraj"><img src="https://api.daily.dev/devcards/v2/zrFnta2xKoyFmeEh0omM7.png?r=xm3&type=default" width="356" alt="Rittik Raj's Dev Card"/></a>
 <a href="https://spotify.oia.bio/imsonuksingh"><img align="right" alt="Now playing on Spotify" height="290px" width=auto src="https://spotify-github-profile.vercel.app/api/view?uid=ropqd325w883lo9x05iiqw4ej&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"/></a>
 <div align="center">
   
@@ -12,7 +12,7 @@
 • A passionate freelance software engineer from india<br>
 •‎ B.Tech 2026 grad in Computer Sc. & Engineering<br>
 •‎ Self-taught java, JavaScript, HTML, Web development<br>
-•‎ ‎Communication Skills || Disciline Build <br>
+•‎ ‎Communication Skills || Discipline Build <br>
 •‎ ‎Call Me Rittik Tabahi<br>
 
  my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
