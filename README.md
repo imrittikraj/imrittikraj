@@ -74,7 +74,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 <p align="center">
-<a href="https://github.com/imsonuksingh"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrittikraj&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=imsonuksingh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
+<a href="https://github.com/imsonuksingh"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsonuksingh&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=imrittikraj&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </p>
 
