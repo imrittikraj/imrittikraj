@@ -38,7 +38,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 <h3 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Thank+U+4+Visiting;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND+Rittik Tabahi;THANK+YOU+EVERYONE+LuvAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Thank+U+4+Visiting;+IT's+NOT+A+JUST+NAME+BRO;IT's+A+BRAND+Rittik+Tabahi;THANK+YOU+EVERYONE+LuvAll)](https://git.io/typing-svg)
 
 </p>
   <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
